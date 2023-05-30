@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Aditya<br>❤️I love building the real world products.<br>🔭I'm currently working on data scince projects<br>🤝Open for collabaration<br>🌱I'm currently exploring the vast field of data scince<br>💬Ask me about opensource<br>📫 How to reach me aditya.kusetti@gmail.com<br>
+Hi there 👋, I'm Aditya<br>🔭I'm currently working on data scince projects<br>🤝Open for collabaration<br>🌱I'm currently exploring the vast field of data scince<br>💬Ask me about opensource<br>📫 How to reach me aditya.kusetti@gmail.com<br>
 
 
 ## 🌐 Socials:
